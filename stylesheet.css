@@ -1,0 +1,13 @@
+/* Add your custom extension styling here */
+.battery-charging {
+    color: #4CAF50;
+}
+
+.battery-low {
+    color: #e53935;
+}
+
+.mouse-battery-box {
+    padding: 0 4px;
+}
+

@@ -1,0 +1,6 @@
+{
+    "name": "Mouse Battery Display",
+    "description": "Shows logitech mouse battery on activity bar",
+    "uuid": "mouse-battery@local",
+    "shell-version": ["45", "46"]
+}
